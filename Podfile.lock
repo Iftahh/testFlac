@@ -1,0 +1,18 @@
+PODS:
+  - libFLAC (1.3.1):
+    - libFLAC/Base (= 1.3.1)
+  - libFLAC/Base (1.3.1):
+    - libFLAC/CorePrivateHeaders
+    - libFLAC/CoreShareHeaders
+  - libFLAC/CorePrivateHeaders (1.3.1)
+  - libFLAC/CoreShareHeaders (1.3.1)
+
+DEPENDENCIES:
+  - libFLAC (~> 1.3.0)
+
+SPEC CHECKSUMS:
+  libFLAC: a5c03147fef15c0c4ed01e817729292413191a3f
+
+PODFILE CHECKSUM: e99bf9b2189f3f3c2bf5131e028fa627eb3e4394
+
+COCOAPODS: 1.0.0
